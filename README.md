@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zakariabs
+- 👋 Hi, I’m Zakaria Basraoui
 - 👀 I’m interested in Electronics,ICT, SpaceTech 
 - 🌱 I’m currently learning Python & MySQL
 - 💞️ I’m looking to collaborate on ...
