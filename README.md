@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zakaria Basraoui
-- 👀 I’m interested in Electronics,ICT, SpaceTech, Python
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in Electronics, SpaceTech, Python
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
