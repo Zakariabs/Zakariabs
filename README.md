@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Embedded Projects and Python Projects
 - 📫 How to reach me:
   [LinkedIn](https://www.linkedin.com/in/zakariabasraoui/)
+  [Twitter](https://twitter.com/bs_zakaria)
 
 <!---
 Zakariabs/Zakariabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
