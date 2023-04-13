@@ -1,10 +1,9 @@
 # Hi there, I'm Zakaria B.S. 👋
 
-I'm a passionate full-stack developer with experience in various technologies and tools. I'm always learning and experimenting with new things to improve my skills and create amazing projects.
+I'm a passionate tech enthusiast with experience in various technologies and tools. I'm always learning and experimenting with new things to improve my skills and create amazing projects.
 
 ## What I'm currently working on
 
-- [FullStackDev](Project Link) - CodeCademy Portfolio track.
 
 
 ## Skills and Technologies
