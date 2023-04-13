@@ -1,11 +1,31 @@
-- 👋 Hi, I’m Zakaria Basraoui
-- 👀 I’m interested in Electronics, SpaceTech, Python and more...
-- 🌱 I’m currently learning lot of things
-- 💞️ I’m looking to collaborate on Embedded Projects and Python Projects
-- 📫 How to reach me:
-  [Flowcode](https://flow.page/zakariabasraoui)
-  [LinkedIn](https://www.linkedin.com/in/zakariabasraoui/)
-  [Twitter](https://twitter.com/bs_zakaria)
+# Hi there, I'm Zakaria B.S. 👋
+
+I'm a passionate full-stack developer with experience in various technologies and tools. I'm always learning and experimenting with new things to improve my skills and create amazing projects.
+
+## What I'm currently working on
+
+- [FullStackDev](Project Link) - CodeCademy Portfolio track.
+
+
+## Skills and Technologies
+
+- **Programming Languages:** Python, C#, Javascript, Arduino
+- **Web Development:** HTML, CSS
+- **Databases:** MySQL, MariaDB
+- **Tools:** Git, VS Code, Postman,
+
+## What I'm currently learning
+
+- That's a secret
+
+## Connect with me
+
+- [Website](Your Website Link)
+- [LinkedIn](https://linkedin.com/zakariabasraoui)
+- [Twitter](https://twitter/bs_zakaria)
+
+Feel free to reach out to me for collaboration, project ideas, or just to say hi. Let's create something amazing together!
+
 
 <!---
 Zakariabs/Zakariabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
