@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-* 🌍  I'm based in Antwerp, Belgium
+* 🌍  I'm based in Belgium
 * ✉️  You can contact me at [zakaria.basraoui@hotmail.com](mailto:zakaria.basraoui@hotmail.com)
 * 🤝  I'm open to collaborating on intertresting projects
 
